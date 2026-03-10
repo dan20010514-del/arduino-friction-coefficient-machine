@@ -1,0 +1,22 @@
+# Arduino Friction Coefficient Measurement System
+
+This project is an Arduino-based device designed to measure friction behavior using sensor data.
+
+## Overview
+The system measures distance changes using a sensor.  
+When the distance decreases and then returns to the initial value, the program counts the motion cycle.
+
+This allows automated measurement of repeated friction experiments.
+
+## Technologies
+- Arduino
+- Distance Sensor
+- Embedded Systems
+
+## Features
+- Sensor-based motion detection
+- Automated cycle counting
+- Experimental measurement device
+
+## Project Status
+Completed
